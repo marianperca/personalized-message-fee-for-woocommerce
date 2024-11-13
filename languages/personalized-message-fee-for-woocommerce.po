@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-11-12 17:56+0200\n"
+"PO-Revision-Date: 2024-11-12 17:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-personalized-message-fee-for-woocommerce-admin.php:72
+msgid "Personalized message settings"
+msgstr "Setari mesaje personalizate"
+
+#: admin/class-personalized-message-fee-for-woocommerce-admin.php:73
+#: public/class-personalized-message-fee-for-woocommerce-public.php:117
+#: public/class-personalized-message-fee-for-woocommerce-public.php:131
+msgid "Personalized message"
+msgstr "Mesaj personalizat"
+
+#: admin/class-personalized-message-fee-for-woocommerce-admin.php:87
+msgid "Personalized message fee settings"
+msgstr "Setari mesaje personalizate"
+
+#: admin/class-personalized-message-fee-for-woocommerce-admin.php:94
+msgid "Message fee amount"
+msgstr "Pret mesaj personalizat"
+
+#: admin/class-personalized-message-fee-for-woocommerce-admin.php:102
+msgid "Message characters limit"
+msgstr ""
+
+#: admin/class-personalized-message-fee-for-woocommerce-admin.php:110
+msgid "Applicable product categories"
+msgstr "Categorii unde se aplica"
+
+#: public/class-personalized-message-fee-for-woocommerce-public.php:72
+#, php-format
+msgid "Add a personalized message (extra %s %s):"
+msgstr "Mesaj personalizat (+ %s %s)"
+
+#: public/class-personalized-message-fee-for-woocommerce-public.php:93
+#, php-format
+msgid "The personalized message must be less than %s characters."
+msgstr "Mesajul personalizat trebuie să aibă mai puțin de %s caractere."
+
+#~ msgid "Personalized message fee"
+#~ msgstr "Pret mesaj personalizat"
